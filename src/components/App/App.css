@@ -1,0 +1,21 @@
+main {
+  background-color: aquamarine;
+  width: 100%;
+}
+
+aside {
+  background-color: blanchedalmond;
+}
+
+header {
+  background-color: cornflowerblue;
+}
+
+.App {
+  display: flex;
+  min-width: 100vh;
+  min-height: 100vh;
+  background-color: cadetblue;
+  
+  /* grid-template-columns: 300px 1fr; */
+}
