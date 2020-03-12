@@ -1,21 +1,25 @@
-main {
+/* main {
   background-color: aquamarine;
-  width: 100%;
-}
+} */
 
-aside {
+/* aside {
   background-color: blanchedalmond;
-}
+} */
 
-header {
+/* header {
   background-color: cornflowerblue;
-}
+} */
 
 .App {
   display: flex;
   min-width: 100vh;
   min-height: 100vh;
-  background-color: cadetblue;
-  
-  /* grid-template-columns: 300px 1fr; */
+}
+
+.pallete {
+  background-color: #293a49;
+  background-color: #3d6373;
+  background-color: #b1d4dd;
+  background-color: #fafaff;
+  background-color: #ff4f00;
 }
